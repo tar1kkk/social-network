@@ -1,0 +1,14 @@
+nav {
+	grid-area: n;
+	background-color: #e0ffff;
+}
+.link a {
+	color: black;
+	text-decoration: none;
+}
+nav a.active {
+	font-weight: bold;
+}
+.active {
+	font-weight: bold;
+}
