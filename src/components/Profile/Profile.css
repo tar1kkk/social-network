@@ -1,8 +1,8 @@
-
 .convert {
 	width: 100%;
 }
 .ava {
 	width: 100px;
 	height: 100px;
+	display: grid;
 }

@@ -1,0 +1,26 @@
+.myPosts {
+	margin-left: 15px;
+}
+.title {
+	font-size: 35px;
+	font-weight: bold;
+}
+.button {
+	margin-top: 15px;
+	margin-bottom: 40px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	height: 35px;
+	width: 100px;
+	font-size: 18px;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border: none;
+}
+
+.button:hover {
+	background-color: #4caf50;
+	color: white;
+}
+.txt {
+	outline: none;
+}
